@@ -1,0 +1,8 @@
+{
+  "name": "stuyvesant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:optgeo/stuyvesant",
+  "author": "Hidenori Fujimura <hfu@users.noreply.github.com>",
+  "license": "MIT"
+}
